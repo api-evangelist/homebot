@@ -1,0 +1,29 @@
+generated: '2026-07-19'
+method: searched
+spec_type: Webhooks
+source:
+- https://homebot.ai/open-api
+- https://homebot.ai/integrations
+- https://help.homebotapp.com/en/articles/9986126-pulling-data-from-homebot-with-zapier-user-guide
+summary: >-
+  Homebot exposes an event/webhook surface through its Open API and its Zapier integration.
+  The Open API surfaces "over 60 unique client activity events" and real-time "Motivated
+  Client Alerts" that fire when a client shows engagement/intent. The Zapier integration
+  provides bi-directional data transfer: outbound webhooks push client activity data into
+  a CRM, and inbound Zaps create clients, homes, and loans in Homebot. Individual event
+  names/payloads are documented behind the gated Open API request-access form and are not
+  captured here (no fabrication).
+transports:
+- name: open-api-events
+  description: Over 60 unique client activity events plus Motivated Client Alerts delivered in real time.
+  access: gated (request access at https://homebot.ai/open-api)
+- name: zapier
+  description: Bi-directional webhook transfer via Zapier; outbound activity webhooks to CRMs, inbound client/home/loan creation.
+  docs: https://help.homebotapp.com/en/articles/10202235-zapier-integration
+event_families:
+- name: client-activity
+  description: Client engagement/interaction events (60+ documented event types).
+- name: motivated-client-alerts
+  description: Real-time high-intent client alerts (equity/intent signals).
+asyncapi_spec: null
+note: No published AsyncAPI document; event catalog detail is gated behind Open API access.

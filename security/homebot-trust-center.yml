@@ -1,0 +1,33 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://homebot.ai/trust-compliance
+url: https://trust.homebot.ai/
+trust_center: https://trust.homebot.ai/
+compliance_page: https://homebot.ai/trust-compliance
+certifications:
+- SOC 2 Type 2
+programs:
+- id: soc2-type2
+  name: SOC 2 Type 2
+  detail: SOC 2 Type 2 since 2021; annual audit for both Security and Privacy Trust Services Criteria.
+- id: ccpa-cpra
+  name: CCPA / CPRA
+  detail: Privacy program aligned with the California Consumer Privacy Act as amended by the California Privacy Rights Act.
+- id: glba
+  name: GLBA
+  detail: Information security program with administrative, technical, and physical safeguards.
+- id: respa
+  name: RESPA
+  detail: Compliance confirmed via opinion letter from outside counsel.
+- id: can-spam
+  name: CAN-SPAM
+  detail: Consumer-friendly opt-out mechanisms in outbound email.
+security_program:
+  penetration_testing: Annual third-party penetration tests by a qualified assessor and between major feature releases.
+  security_contact: support@homebot.ai
+evidence:
+- source: https://homebot.ai/trust-compliance
+  keywords: [soc 2 type 2, ccpa, cpra, glba, respa, trust center]
+- source: https://trust.homebot.ai/
+  keywords: [trust center]

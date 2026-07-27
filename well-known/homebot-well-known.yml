@@ -1,0 +1,23 @@
+generated: '2026-07-19'
+method: searched
+note: >-
+  No first-party .well-known discovery documents were found. homebot.ai returns 404 for all
+  probed paths. homebotapp.com returns a soft-200 (the login HTML catch-all, not a real
+  document). help.homebotapp.com/.well-known/security.txt exists but is Intercom's security.txt
+  (the help center is hosted on Intercom), not Homebot's own — so it is not indexed as a
+  Homebot artifact. No WellKnown/SecurityTxt pointer is wired.
+hosts:
+- host: https://homebot.ai
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/openid-configuration, status: 404}
+  - {path: /.well-known/oauth-authorization-server, status: 404}
+  - {path: /.well-known/api-catalog, status: 404}
+  - {path: /.well-known/ai-plugin.json, status: 404}
+- host: https://homebotapp.com
+  documents:
+  - {path: /.well-known/security.txt, status: 200, note: soft-404 login HTML, not a real document}
+- host: https://help.homebotapp.com
+  documents:
+  - {path: /.well-known/security.txt, status: 200, note: Intercom-hosted security.txt, not Homebot's own}
+  - {path: /llms.txt, status: 200, note: real help-center llms.txt, saved to llms/homebot-llms.txt}

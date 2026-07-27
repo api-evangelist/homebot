@@ -1,0 +1,186 @@
+# Homebot Help Center
+
+> How can we help?
+
+## On-Demand Customer Education
+
+- [Training for Loan Officers](http://help.homebotapp.com/en/articles/7208308-training-for-loan-officers.md)
+- [Training for Agents](http://help.homebotapp.com/en/articles/7208352-training-for-agents.md)
+
+## Getting Started Guides & Best Practices
+
+- [Quick Start: 7 Easy Steps to Set Up Your Account for Success!](http://help.homebotapp.com/en/articles/10172778-quick-start-7-easy-steps-to-set-up-your-account-for-success.md): Start here to set up your account, customize it, send yourself a report, and add some clients.
+- [Homebot Best Practices](http://help.homebotapp.com/en/articles/15485112-homebot-best-practices.md): A consolidated guide to best practices for driving client engagement, generating leads, using video, and strengthening agent relationships.
+- [How to Introduce Homebot to Clients and Prospects](http://help.homebotapp.com/en/articles/9535143-how-to-introduce-homebot-to-clients-and-prospects.md)
+- [Playbook: Getting Started on Homebot](http://help.homebotapp.com/en/articles/13795620-playbook-getting-started-on-homebot.md)
+- [Playbook: 90 Day Proactive Outreach](http://help.homebotapp.com/en/articles/13718861-playbook-90-day-proactive-outreach.md): Find scripts and tips for boosting client engagement
+- [Getting Started on the Agent Team Plan](http://help.homebotapp.com/en/articles/11003712-getting-started-on-the-agent-team-plan.md): Learn how to add agent profiles, transfer clients, impersonate agents, and more.
+- [What is Homebot? A Brief Overview of How Homebot Works](http://help.homebotapp.com/en/articles/10375507-what-is-homebot-a-brief-overview-of-how-homebot-works.md): This article provides a brief overview of how Homebot works, along with links to additional resources for more information.
+
+## Account Management & Customization
+
+- [Login, Password & Account Access](http://help.homebotapp.com/en/articles/15504565-login-password-account-access.md): Learn how to log in, set or reset your password, troubleshoot login issues, and manage account access.
+- [Profile & Account Settings](http://help.homebotapp.com/en/articles/15504567-profile-account-settings.md): Learn how to update your profile information, upload a photo, add custom links, update your login email, and manage digest settings.
+- [Company & Office Info](http://help.homebotapp.com/en/articles/3667316-company-office-info.md): Learn how to change your company and office information, plus additional customization for your clients
+- [Customizing Your Homebot Account](http://help.homebotapp.com/en/articles/15504572-customizing-your-homebot-account.md): Learn how to personalize your Homebot account with a welcome video, custom email, disclaimer, loan application link, integrations, and more.
+- [Transitioning to a New Company on Homebot](http://help.homebotapp.com/en/articles/11972453-transitioning-to-a-new-company-on-homebot.md)
+- [SMS & Phone Call Opt-In: What It Is and How It Works](http://help.homebotapp.com/en/articles/15366155-sms-phone-call-opt-in-what-it-is-and-how-it-works.md): Homebot's built-in TCPA consent capture lets homeowners opt in to texts and calls from their loan officer directly in the digest.
+- [How to log in and log out of your account and troubleshoot login issues](http://help.homebotapp.com/en/articles/3648220-how-to-log-in-and-log-out-of-your-account-and-troubleshoot-login-issues.md): Are you having trouble logging in? This article will show you how to log in to your Homebot account.
+
+## Integrations & Power Ups
+
+- [BombBomb Integration](http://help.homebotapp.com/en/articles/15504954-bombbomb-integration.md): Learn how BombBomb works with Homebot, how to connect it, and how to use it to send personalized video messages to your clients.
+- [Mortgage Coach Integration](http://help.homebotapp.com/en/articles/4836853-mortgage-coach-integration.md): Everything you need to know to set up and start using MC successfully
+- [Follow Up Boss Integration](http://help.homebotapp.com/en/articles/10119918-follow-up-boss-integration.md): Learn how to connect Follow Up Boss and how the integration works.
+- [Jungo Integration](http://help.homebotapp.com/en/articles/10166289-jungo-integration.md)
+- [SureFire Integration](http://help.homebotapp.com/en/articles/10121797-surefire-integration.md)
+- [Total Expert Integration](http://help.homebotapp.com/en/articles/10121831-total-expert-integration.md)
+- [Usherpa Integration](http://help.homebotapp.com/en/articles/12260062-usherpa-integration.md): Learn how to connect Usherpa to Homebot!
+- [Zapier Integration](http://help.homebotapp.com/en/articles/10202235-zapier-integration.md)
+- [Integrate Homebot With Your CRM Using Zapier](http://help.homebotapp.com/en/articles/9986123-integrate-homebot-with-your-crm-using-zapier.md): Use Zapier to integrate your CRM or CSM tool with Homebot!
+- [Pulling data from Homebot With Zapier User Guide](http://help.homebotapp.com/en/articles/9986126-pulling-data-from-homebot-with-zapier-user-guide.md)
+- [Load Clients Into Homebot With Zapier User Guide](http://help.homebotapp.com/en/articles/9986181-load-clients-into-homebot-with-zapier-user-guide.md)
+- [Load Clients Into Homebot From ARIVE Using Zapier](http://help.homebotapp.com/en/articles/14128628-load-clients-into-homebot-from-arive-using-zapier.md)
+
+## Adding Clients & Prospects 
+
+- [How to Add Clients & Prospects in Bulk](http://help.homebotapp.com/en/articles/3854760-how-to-add-clients-prospects-in-bulk.md): Learn how to quickly and easily add a large database to your account.
+- [Export Instructions by LOS and CRM Tool](http://help.homebotapp.com/en/articles/15483670-export-instructions-by-los-and-crm-tool.md)
+- [How to Add Clients & Prospects Manually \(one at a time\)](http://help.homebotapp.com/en/articles/2222667-how-to-add-clients-prospects-manually-one-at-a-time.md): Learn how to add clients and prospects one at a time as a single entry
+- [What to Expect After Adding Clients](http://help.homebotapp.com/en/articles/3854365-what-to-expect-after-adding-clients.md): Learn when the first report is sent and when they auto-send each month after.
+- [Homebot's Spanish language capabilities](http://help.homebotapp.com/en/articles/9326490-homebot-s-spanish-language-capabilities.md): Learn how to add Spanish contacts to your account and update their preferences.
+- [Export a Pipeline Report from Arive to Import Into Homebot](http://help.homebotapp.com/en/articles/15061603-export-a-pipeline-report-from-arive-to-import-into-homebot.md): If you use Arive as your LOS, you can export your pipeline as a .csv and upload it to Homebot.
+
+## Database Management
+
+- [Weekly Leaderboard Email](http://help.homebotapp.com/en/articles/14712568-weekly-leaderboard-email.md): Learn how Homebot's weekly email helps you stay on top of your most engaged clients.
+- [How to search, sort, and filter your database](http://help.homebotapp.com/en/articles/10092161-how-to-search-sort-and-filter-your-database.md): How to locate clients in your account
+- [How to Manage Buyer Profiles](http://help.homebotapp.com/en/articles/9836541-how-to-manage-buyer-profiles.md): Learn how to change loan information, edit contact information, delete or remove a buyer, and assign a real estate agent.
+- [How to Manage Homeowner Profiles](http://help.homebotapp.com/en/articles/9709068-how-to-manage-homeowner-profiles.md): Learn how to update a clients home value, edit home address, delete or remove a homeowner, and more
+- [Managing Clients with Email Issues](http://help.homebotapp.com/en/articles/15505074-managing-clients-with-email-issues.md): Learn how to find clients with email issues, what each status means, how to re-engage them, and how to delete them from your account.
+- [How to Export Your Database](http://help.homebotapp.com/en/articles/14812493-how-to-export-your-database.md): Learn how to request an export of your Homebot client database, what's included in the export, and what to expect.
+- [How to Handle Pre-qual Requests](http://help.homebotapp.com/en/articles/12871965-how-to-handle-pre-qual-requests.md): Learn how to complete a pre-qual request or delete the client from the pre-qualification request list
+- [How to Handle CMA Requests](http://help.homebotapp.com/en/articles/3861314-how-to-handle-cma-requests.md): Learn how to manage and leverage CMA requests, how to assign a CMA to a realtor, and how to delete a client from the CMA request list.
+- [How do I preview a client's Homebot?](http://help.homebotapp.com/en/articles/11381278-how-do-i-preview-a-client-s-homebot.md)
+- [How to Delete Clients](http://help.homebotapp.com/en/articles/11385733-how-to-delete-clients.md)
+- [How to Find Your Last Client Import Date](http://help.homebotapp.com/en/articles/12005453-how-to-find-your-last-client-import-date.md): Can you tell me the last date I added clients to my database?
+- [How to view clients who are "cold" or disengaged](http://help.homebotapp.com/en/articles/12735496-how-to-view-clients-who-are-cold-or-disengaged.md)
+- [What happens if my client purchases a home?](http://help.homebotapp.com/en/articles/12803651-what-happens-if-my-client-purchases-a-home.md)
+- [How to Change the Estimated Home Value](http://help.homebotapp.com/en/articles/736311-how-to-change-the-estimated-home-value.md): Learn how to update the value of a home by updating the CMA
+
+## Client Outreach
+
+- [How to Build Your Weekly Call List in Homebot](http://help.homebotapp.com/en/articles/12551337-how-to-build-your-weekly-call-list-in-homebot.md): Identify engaged clients, spark meaningful conversations, and drive more referrals with consistent weekly touchpoints.
+- [90 Day Proactive Outreach Playbook](http://help.homebotapp.com/en/articles/13928149-90-day-proactive-outreach-playbook.md): Find scripts and tips for boosting client engagement
+- [Activity Feed](http://help.homebotapp.com/en/articles/10092304-activity-feed.md): How to understand client engagement in your activity feed
+- [Opportunity Lists](http://help.homebotapp.com/en/articles/10092152-opportunity-lists.md): Learn how to use opportunity lists to inform your outreach strategy.
+- [Likely to Sell Scores](http://help.homebotapp.com/en/articles/9641674-likely-to-sell-scores.md): Gain insight into whether or not a client will list their home in the next nine months
+- [Highly Engaged Clients](http://help.homebotapp.com/en/articles/10092252-highly-engaged-clients.md)
+- [Listing Alerts](http://help.homebotapp.com/en/articles/9533642-listing-alerts.md): Find out when your clients and favorite agents list a property.
+- [Direct Messages](http://help.homebotapp.com/en/articles/10092266-direct-messages.md): Learn how to respond to direct messages
+- [Client Engagement Alerts: Direct Messages & High-Intent Email Notifications](http://help.homebotapp.com/en/articles/10064298-client-engagement-alerts-direct-messages-high-intent-email-notifications.md): Learn about client actions that trigger an email and best practices.
+- [How we determine when someone is ready for a refi](http://help.homebotapp.com/en/articles/6045683-how-we-determine-when-someone-is-ready-for-a-refi.md): Ready for a refi opportunity list explained
+- [How to Use Homebot as a Conversation Starter With Example Scripts](http://help.homebotapp.com/en/articles/8225997-how-to-use-homebot-as-a-conversation-starter-with-example-scripts.md): Best practices for what to say when you reach out to your clients and prospects \(with or without a phone number\).
+- [Example Scripts for Personalized Client Outreach](http://help.homebotapp.com/en/articles/15608310-example-scripts-for-personalized-client-outreach.md)
+
+## Co-Sponsorship
+
+- [How Co-Sponsorship Works and What a Co-Branded Report Looks Like](http://help.homebotapp.com/en/articles/8274269-how-co-sponsorship-works-and-what-a-co-branded-report-looks-like.md): Interested in teaming up with an agent or lender? Read this article to understand how it works and what a cobranded report looks like.
+- [How Shared Clients Work](http://help.homebotapp.com/en/articles/1940518-how-shared-clients-work.md)
+- [Preferred Agents vs. Co-Sponsored Agents](http://help.homebotapp.com/en/articles/12418412-preferred-agents-vs-co-sponsored-agents.md)
+
+## Send and Embed Video
+
+- [The Differences Between Video Email, Embedded Videos, and BombBomb](http://help.homebotapp.com/en/articles/4950987-the-differences-between-video-email-embedded-videos-and-bombbomb.md): Understand what sets each video feature apart
+- [Instructions for Uploading Your Videos to a Supported Platform](http://help.homebotapp.com/en/articles/8371007-instructions-for-uploading-your-videos-to-a-supported-platform.md): Learn how to locate the video ID from YouTube, BombBomb, Wistia, Vidyard, and PitchHub when sending video emails.
+- [Workshop Recording: Using Video on Homebot](http://help.homebotapp.com/en/articles/8358211-workshop-recording-using-video-on-homebot.md): Watch a previously recorded workshop about how to use video on Homebot
+- [How to record great videos: a checklist](http://help.homebotapp.com/en/articles/12091871-how-to-record-great-videos-a-checklist.md)
+- [How to change your YouTube short URL and more](http://help.homebotapp.com/en/articles/12551041-how-to-change-your-youtube-short-url-and-more.md)
+- [How to send a Video Email to all of your homeowners or buyers](http://help.homebotapp.com/en/articles/4256123-how-to-send-a-video-email-to-all-of-your-homeowners-or-buyers.md): Learn how to send a video email to all of your homeowners and buyers
+- [How to send a Video Email to Clients in Your Opportunity Lists](http://help.homebotapp.com/en/articles/11844822-how-to-send-a-video-email-to-clients-in-your-opportunity-lists.md)
+- [How to Embed Your Welcome Video & More](http://help.homebotapp.com/en/articles/4840002-how-to-embed-your-welcome-video-more.md): Learn how to enhance your clients’ favorite Homebot reports with short, educational, topic-based videos.
+- [How to Send a Personalized Video Using BombBomb](http://help.homebotapp.com/en/articles/2354100-how-to-send-a-personalized-video-using-bombbomb.md): Learn how to create and send personalized BombBomb videos to your clients in conjunction with their Homebot.
+- [How to Send a Personal Video Without BombBomb](http://help.homebotapp.com/en/articles/10128224-how-to-send-a-personal-video-without-bombbomb.md)
+- [How to Turn on BombBomb](http://help.homebotapp.com/en/articles/3670261-how-to-turn-on-bombbomb.md): Learn how to turn on your BombBomb Power Up to maximize engagement on reports.
+- [3 Strategies for Using BombBomb With Homebot](http://help.homebotapp.com/en/articles/4284731-3-strategies-for-using-bombbomb-with-homebot.md): Learn how to use BombBomb to provide value to your database attract prospective clients and partners.
+
+## Automated Monthly Emails 
+
+- [The Automated Monthly Emails](http://help.homebotapp.com/en/articles/8346469-the-automated-monthly-emails.md): Learn about the monthly Homebot emails, when they go out, and how you can turn them on and off for your entire database.
+- [The Welcome Email and How to Customize It.](http://help.homebotapp.com/en/articles/3944872-the-welcome-email-and-how-to-customize-it.md): Learn how we introduce your clients to Homebot.
+- [Missing Home Value Email](http://help.homebotapp.com/en/articles/12601810-missing-home-value-email.md): Learn what happens when a home value estimate can't be generated
+- [Likely to Sell Email Alert](http://help.homebotapp.com/en/articles/12601512-likely-to-sell-email-alert.md)
+- [Single Listing Emails for Prospects](http://help.homebotapp.com/en/articles/12260783-single-listing-emails-for-prospects.md)
+- [Buyer Opt-In Email](http://help.homebotapp.com/en/articles/12503021-buyer-opt-in-email.md)
+- [Listing Alerts for Clients](http://help.homebotapp.com/en/articles/12270990-listing-alerts-for-clients.md)
+- [When will the welcome email and homeowner and buyer reports be sent?](http://help.homebotapp.com/en/articles/3651892-when-will-the-welcome-email-and-homeowner-and-buyer-reports-be-sent.md): Learn when you can expect the reports to get sent to your clients.
+
+## Partner Intel for Lenders
+
+- [Partner Intel](http://help.homebotapp.com/en/articles/9304034-partner-intel.md): Everything you need to know when getting started on Partner Intel.
+- [Workshop Recording: Partner Intel](http://help.homebotapp.com/en/articles/11518614-workshop-recording-partner-intel.md)
+
+## Home Digest Experience for Homeowners
+
+- [Video Overview of the Home Digest Experience](http://help.homebotapp.com/en/articles/3975961-video-overview-of-the-home-digest-experience.md): Take a quick video tour of the homeowner report + find links to everything you need to know about it.
+- [When will my clients receive their first Homebot?](http://help.homebotapp.com/en/articles/9740428-when-will-my-clients-receive-their-first-homebot.md): Learn when you can expect the reports to get sent to your clients.
+- [How are Estimated Home Values Determined?](http://help.homebotapp.com/en/articles/8927034-how-are-estimated-home-values-determined.md): Everything you need to know about your client's estimated home value
+- [How Homeowners Become Buyers](http://help.homebotapp.com/en/articles/4353229-how-homeowners-become-buyers.md): Learn how homeowners notify you when they're interested in buying.
+- [Module Overview: Tune Your Value](http://help.homebotapp.com/en/articles/3631274-module-overview-tune-your-value.md): Learn how homeowners can adjust their home value and request a CMA.
+- [Module Overview: Market Temperature Panel](http://help.homebotapp.com/en/articles/3932160-module-overview-market-temperature-panel.md): Learn more about how the market temperature panel helps homeowners understand the current market for selling their home.
+- [Module Overview: Should You Sell Panel](http://help.homebotapp.com/en/articles/5112483-module-overview-should-you-sell-panel.md): Learn how Homebot is helping you identify and qualify seller leads in your database.
+- [Module Overview: What's Important Now](http://help.homebotapp.com/en/articles/3864544-module-overview-what-s-important-now.md): Learn all about each possible scenario in the What's Important Now section & how they work
+- [Module Overview: Principal and Interest Payments](http://help.homebotapp.com/en/articles/1768409-module-overview-principal-and-interest-payments.md): Learn about the power of making additional principal payments through this quick explainer video.
+- [Module Overview: Refinancing](http://help.homebotapp.com/en/articles/1768256-module-overview-refinancing.md): Learn about the power of our refinancing module
+- [Module Overview: Purchasing Power](http://help.homebotapp.com/en/articles/999335-module-overview-purchasing-power.md): Learn about the purchasing power module: Buying an investment property or trading up to a new home
+- [Module Overview: Equity Explorer](http://help.homebotapp.com/en/articles/2670232-module-overview-equity-explorer.md): Learn how the equity explorer module works, leverage it for cash-out refis, and use the opportunities to build a referral network.
+- [Module Overview: Short-term rental](http://help.homebotapp.com/en/articles/3976386-module-overview-short-term-rental.md): Learn more about the short-term rental income simulator here.
+- [Module Overview: Home Insurance](http://help.homebotapp.com/en/articles/4305306-module-overview-home-insurance.md): Learn more about how the home insurance module works to alert your clients to possible renewals and their options.
+- [Module Overview: Reverse Mortgage](http://help.homebotapp.com/en/articles/1097629-module-overview-reverse-mortgage.md): Increase your business by enabling our new "Reverse Mortgage" module. Learn how it works and why it's beneficial!
+- [Module Overview: Mortgage Insurance](http://help.homebotapp.com/en/articles/2360157-module-overview-mortgage-insurance.md): Learn how our mortgage insurance module can help your clients know when to refi and get rid of pesky mortgage insurance
+- [Homeowner Check-In](http://help.homebotapp.com/en/articles/12243047-homeowner-check-in.md)
+
+## Home Search Experience for Buyers
+
+- [Video Overview of Homebot's Home Search Experience](http://help.homebotapp.com/en/articles/5753529-video-overview-of-homebot-s-home-search-experience.md): Help clients make smart purchase decisions with personalized financial insights on every listing.
+- [Buyer Onboarding Flow & More](http://help.homebotapp.com/en/articles/8350088-buyer-onboarding-flow-more.md)
+- [Financial Calculators](http://help.homebotapp.com/en/articles/11327735-financial-calculators.md)
+- [Homeownership Verification](http://help.homebotapp.com/en/articles/12090315-homeownership-verification.md)
+- [How to Leverage Home Search for Prospects](http://help.homebotapp.com/en/articles/11788243-how-to-leverage-home-search-for-prospects.md)
+- [Listing Agents Featured in Home Search](http://help.homebotapp.com/en/articles/9125121-listing-agents-featured-in-home-search.md)
+- [How to Turn on Custom Listings for Agents](http://help.homebotapp.com/en/articles/3670256-how-to-turn-on-custom-listings-for-agents.md): Take one step further customizing your Homebot portal to level up your client experience by activating the Custom Listings Power Up
+- [Is Homebot a Real Estate Brokerage?](http://help.homebotapp.com/en/articles/8685587-is-homebot-a-real-estate-brokerage.md): Learn the purpose of HB Real Estate and what it means for you and your database
+- [Curated Galleries of Listings Done For Your Clients](http://help.homebotapp.com/en/articles/9407016-curated-galleries-of-listings-done-for-your-clients.md)
+- [Buyer Self-Upgrades to a Homeowner](http://help.homebotapp.com/en/articles/11739696-buyer-self-upgrades-to-a-homeowner.md)
+
+## The Homebot Network
+
+- [The Homebot Network](http://help.homebotapp.com/en/articles/10873189-the-homebot-network.md)
+- [The Homebot Network for Preferred Loan Officers](http://help.homebotapp.com/en/articles/12160648-the-homebot-network-for-preferred-loan-officers.md)
+- [The Homebot Network for Preferred Real Estate Agents](http://help.homebotapp.com/en/articles/11048860-the-homebot-network-for-preferred-real-estate-agents.md)
+- [The Homebot Network for Preferred Insurance Agents](http://help.homebotapp.com/en/articles/12633718-the-homebot-network-for-preferred-insurance-agents.md)
+- [Partner Opportunity Digest: What It Is and How It Works](http://help.homebotapp.com/en/articles/15891989-partner-opportunity-digest-what-it-is-and-how-it-works.md)
+- [Partners Tab and Best Practices](http://help.homebotapp.com/en/articles/13604448-partners-tab-and-best-practices.md)
+- [How to add a preferred professional](http://help.homebotapp.com/en/articles/12770152-how-to-add-a-preferred-professional.md)
+- [How to Claim Your Free Profile](http://help.homebotapp.com/en/articles/13612435-how-to-claim-your-free-profile.md)
+
+## The Homebot Mobile App
+
+- [The Homebot Mobile App](http://help.homebotapp.com/en/articles/8574728-the-homebot-mobile-app.md): Learn more about the Homebot Mobile App
+- [Workshop Recording: The Homebot Mobile App](http://help.homebotapp.com/en/articles/9931303-workshop-recording-the-homebot-mobile-app.md)
+- [How Existing Homebot Users Download the Mobile App](http://help.homebotapp.com/en/articles/8574802-how-existing-homebot-users-download-the-mobile-app.md)
+- [How to Generate Leads With the Homebot Mobile App](http://help.homebotapp.com/en/articles/8506088-how-to-generate-leads-with-the-homebot-mobile-app.md): Learn how to generate leads with Homebot using the mobile app. Find your App code.
+- [Homebot Mobile App Push Notifications](http://help.homebotapp.com/en/articles/8896071-homebot-mobile-app-push-notifications.md): Find out when we send your clients and leads a push notification to encourage them to hop back into their Homeowner digest
+- [Credit monitoring through the Homebot Mobile App](http://help.homebotapp.com/en/articles/9326277-credit-monitoring-through-the-homebot-mobile-app.md)
+
+## Billing
+
+- [View your plan, invoices, and more](http://help.homebotapp.com/en/articles/13848395-view-your-plan-invoices-and-more.md)
+
+## Troubleshooting
+
+- [How to Contact Homebot Support](http://help.homebotapp.com/en/articles/3648637-how-to-contact-homebot-support.md): Learn how you can get in touch with our support team!
+- [Why can't my client see their digest?](http://help.homebotapp.com/en/articles/4693759-why-can-t-my-client-see-their-digest.md): Learn how to troubleshoot client digest viewing issues
+- [What does HTTP 422 Error mean?](http://help.homebotapp.com/en/articles/4351979-what-does-http-422-error-mean.md): Learn how to manage the http 422 error
+- [Why am I getting error: cannot verify address?](http://help.homebotapp.com/en/articles/3426139-why-am-i-getting-error-cannot-verify-address.md): Learn how to resolve a home when you receive the error "no\_address\_found"
+- [Why am I getting an error adding in a real estate agent?](http://help.homebotapp.com/en/articles/3667028-why-am-i-getting-an-error-adding-in-a-real-estate-agent.md): Learn why you're likely getting an error when adding in a real estate agent

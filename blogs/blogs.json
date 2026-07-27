@@ -1,0 +1,14 @@
+{
+  "repo": "homebot",
+  "feeds": [
+    {
+      "source": "https://help.homebotapp.com",
+      "feed_url": "https://help.homebotapp.com",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
