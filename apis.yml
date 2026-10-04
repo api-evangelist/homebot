@@ -45,7 +45,7 @@ created: '2026-07-17'
 modified: '2026-07-19'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - Mortgage
 - PropTech
 - Fintech
@@ -65,6 +65,7 @@ tags_raw:
 - CRM
 - Lead Generation
 - Webhooks
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
