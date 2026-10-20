@@ -15,6 +15,7 @@
   evidence: https://zapier.com/apps/follow-up-boss/integrations/homebot/255596140/create-new-clients-in-homebot-from-new-contacts-in-follow-up-boss
   template: https://zapier.com/apps/follow-up-boss/integrations/homebot/255596140/create-new-clients-in-homebot-from-new-contacts-in-follow-up-boss
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-add-tags-to-new-contacts-in-follow-up-boss-and-create-clients-in-homebot
@@ -29,6 +30,7 @@
   evidence: https://zapier.com/apps/follow-up-boss/integrations/homebot/255592435/add-tags-to-new-contacts-in-follow-up-boss-and-create-clients-in-homebot
   template: https://zapier.com/apps/follow-up-boss/integrations/homebot/255592435/add-tags-to-new-contacts-in-follow-up-boss-and-create-clients-in-homebot
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-add-new-kvcore-leads-as-clients-in-homebot
@@ -42,6 +44,7 @@
   evidence: https://zapier.com/apps/homebot/integrations/kvcore/255582019/add-new-kvcore-leads-as-clients-in-homebot
   template: https://zapier.com/apps/homebot/integrations/kvcore/255582019/add-new-kvcore-leads-as-clients-in-homebot
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-add-new-contacts-in-follow-up-boss-as-buyers-in-homebot
@@ -56,6 +59,7 @@
   evidence: https://zapier.com/apps/follow-up-boss/integrations/homebot/255585938/add-new-contacts-in-follow-up-boss-as-buyers-in-homebot
   template: https://zapier.com/apps/follow-up-boss/integrations/homebot/255585938/add-new-contacts-in-follow-up-boss-as-buyers-in-homebot
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-create-clients-and-homes-in-homebot-from-new-lofty-leads
@@ -69,6 +73,7 @@
   evidence: https://zapier.com/apps/homebot/integrations/lofty/255586258/create-clients-and-homes-in-homebot-from-new-lofty-leads
   template: https://zapier.com/apps/homebot/integrations/lofty/255586258/create-clients-and-homes-in-homebot-from-new-lofty-leads
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-update-and-create-new-clients-in-homebot-whenever-stages-are-updated-in-follow-up-
@@ -83,6 +88,7 @@
   evidence: https://zapier.com/apps/follow-up-boss/integrations/homebot/255590625/update-and-create-new-clients-in-homebot-whenever-stages-are-updated-in-follow-up-boss
   template: https://zapier.com/apps/follow-up-boss/integrations/homebot/255590625/update-and-create-new-clients-in-homebot-whenever-stages-are-updated-in-follow-up-boss
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-create-new-homebot-clients-when-pipeline-stages-change-in-leadconnector
@@ -96,6 +102,7 @@
   evidence: https://zapier.com/apps/homebot/integrations/leadconnector/255592308/create-new-homebot-clients-when-pipeline-stages-change-in-leadconnector
   template: https://zapier.com/apps/homebot/integrations/leadconnector/255592308/create-new-homebot-clients-when-pipeline-stages-change-in-leadconnector
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-create-new-homebot-clients-from-new-dakno-contacts
@@ -109,6 +116,7 @@
   evidence: https://zapier.com/apps/dakno/integrations/homebot/255592850/create-new-homebot-clients-from-new-dakno-contacts
   template: https://zapier.com/apps/dakno/integrations/homebot/255592850/create-new-homebot-clients-from-new-dakno-contacts
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-create-new-homebot-clients-from-kvcore-campaign-actions
@@ -122,6 +130,7 @@
   evidence: https://zapier.com/apps/homebot/integrations/kvcore/255594124/create-new-homebot-clients-from-kvcore-campaign-actions
   template: https://zapier.com/apps/homebot/integrations/kvcore/255594124/create-new-homebot-clients-from-kvcore-campaign-actions
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-create-new-homebot-clients-from-new-kvcore-leads
@@ -135,6 +144,7 @@
   evidence: https://zapier.com/apps/homebot/integrations/kvcore/255611331/create-new-homebot-clients-from-new-kvcore-leads
   template: https://zapier.com/apps/homebot/integrations/kvcore/255611331/create-new-homebot-clients-from-new-kvcore-leads
   source: template
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-create-new-clients-in-homebot-from-new-leads-in-facebook-lead-ads
@@ -149,282 +159,7 @@
   evidence: https://zapier.com/apps/facebook-lead-ads/integrations/homebot/255615545/create-new-clients-in-homebot-from-new-leads-in-facebook-lead-ads
   template: https://zapier.com/apps/facebook-lead-ads/integrations/homebot/255615545/create-new-clients-in-homebot-from-new-leads-in-facebook-lead-ads
   source: template
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-mojo
-  label: Mojo
-  partner_name: Mojo
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/mojo
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-google-sheets
-  label: Google Sheets
-  partner: google-sheets
-  partner_name: Google Sheets
-  category: Google
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/google-sheets
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-sierra-interactive
-  label: Sierra Interactive
-  partner_name: Sierra Interactive
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/sierra-interactive
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-brivity
-  label: Brivity
-  partner_name: Brivity
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/brivity
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-sure-send
-  label: Sure Send
-  partner_name: Sure Send
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/sure-send
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-hubspot
-  label: HubSpot
-  partner: hubspot
-  partner_name: HubSpot
-  category: Marketing Automation
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/hubspot
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-fillout-forms
-  label: Fillout Forms
-  partner: fillout
-  partner_name: Fillout Forms
-  category: Forms & Surveys
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/fillout
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-gravity-forms
-  label: Gravity Forms
-  partner: gravity-forms
-  partner_name: Gravity Forms
-  category: Forms & Surveys
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/gravity-forms
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-mailchimp
-  label: Mailchimp
-  partner: mailchimp
-  partner_name: Mailchimp
-  category: Marketing Automation
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/mailchimp
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-chatbot-com
-  label: ChatBot.com
-  partner_name: ChatBot.com
-  category: AI Chatbots
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/chatbotcom
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-realscout
-  label: RealScout
-  partner: realscout
-  partner_name: RealScout
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/realscout
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-cognito-forms
-  label: Cognito Forms
-  partner: cognito-forms
-  partner_name: Cognito Forms
-  category: Forms & Surveys
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/cognito-forms
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-copper
-  label: Copper
-  partner: copper
-  partner_name: Copper
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/copper
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-keller-williams-command
-  label: Keller Williams Command
-  partner: keller-williams
-  partner_name: Keller Williams Command
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/kwcommand
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-salesmate
-  label: Salesmate
-  partner_name: Salesmate
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/salesmate
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-compass
-  label: Compass
-  partner: compass
-  partner_name: Compass
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/compass-da26590
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-mydevices
-  label: myDevices
-  partner_name: myDevices
-  category: Devices
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/mydevices
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-pipedrive
-  label: Pipedrive
-  partner: pipedrive
-  partner_name: Pipedrive
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/pipedrive
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-flodesk
-  label: Flodesk
-  partner_name: Flodesk
-  category: Email Newsletters
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/flodesk
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-fello
-  label: Fello
-  partner_name: Fello
-  category: Marketing Automation
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/fello
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-perplexity
-  label: Perplexity
-  partner: perplexity
-  partner_name: Perplexity
-  category: AI Assistants
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/perplexity
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-curb-hero
-  label: Curb Hero
-  partner_name: Curb Hero
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/curb-hero
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-finmo
-  label: Finmo
-  partner_name: Finmo
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/finmo
-  source: edge
-  status: pending-partner-spec
-  arazzo: null
-- slug: homebot-bonzo
-  label: BONZO
-  partner_name: BONZO
-  category: CRM (Customer Relationship Management)
-  type: marketplace
-  marketplace: zapier
-  channel: ipaas-usage
-  evidence: https://zapier.com/apps/homebot/integrations/bonzo
-  source: edge
+  relationship: ipaas-bridge
   status: pending-partner-spec
   arazzo: null
 - slug: homebot-zapier
@@ -451,4 +186,304 @@
     beta: false
     builder: unknown (not in the directory record)
   status: not-a-workflow
+  arazzo: null
+- slug: homebot-mojo
+  label: Mojo
+  partner_name: Mojo
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/mojo
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-google-sheets
+  label: Google Sheets
+  partner: google-sheets
+  partner_name: Google Sheets
+  category: Google
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/google-sheets
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-sierra-interactive
+  label: Sierra Interactive
+  partner_name: Sierra Interactive
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/sierra-interactive
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-brivity
+  label: Brivity
+  partner_name: Brivity
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/brivity
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-sure-send
+  label: Sure Send
+  partner_name: Sure Send
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/sure-send
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-hubspot
+  label: HubSpot
+  partner: hubspot
+  partner_name: HubSpot
+  category: Marketing Automation
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/hubspot
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-fillout-forms
+  label: Fillout Forms
+  partner: fillout
+  partner_name: Fillout Forms
+  category: Forms & Surveys
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/fillout
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-gravity-forms
+  label: Gravity Forms
+  partner: gravity-forms
+  partner_name: Gravity Forms
+  category: Forms & Surveys
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/gravity-forms
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-mailchimp
+  label: Mailchimp
+  partner: mailchimp
+  partner_name: Mailchimp
+  category: Marketing Automation
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/mailchimp
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-chatbot-com
+  label: ChatBot.com
+  partner_name: ChatBot.com
+  category: AI Chatbots
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/chatbotcom
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-realscout
+  label: RealScout
+  partner: realscout
+  partner_name: RealScout
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/realscout
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-cognito-forms
+  label: Cognito Forms
+  partner: cognito-forms
+  partner_name: Cognito Forms
+  category: Forms & Surveys
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/cognito-forms
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-copper
+  label: Copper
+  partner: copper
+  partner_name: Copper
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/copper
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-keller-williams-command
+  label: Keller Williams Command
+  partner: keller-williams
+  partner_name: Keller Williams Command
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/kwcommand
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-salesmate
+  label: Salesmate
+  partner_name: Salesmate
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/salesmate
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-compass
+  label: Compass
+  partner: compass
+  partner_name: Compass
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/compass-da26590
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-preapp1003
+  label: PreApp1003
+  partner_name: PreApp1003
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/preapp
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-mydevices
+  label: myDevices
+  partner_name: myDevices
+  category: Devices
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/mydevices
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-pipedrive
+  label: Pipedrive
+  partner: pipedrive
+  partner_name: Pipedrive
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/pipedrive
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-flodesk
+  label: Flodesk
+  partner_name: Flodesk
+  category: Email Newsletters
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/flodesk
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-fello
+  label: Fello
+  partner_name: Fello
+  category: Marketing Automation
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/fello
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-perplexity
+  label: Perplexity
+  partner: perplexity
+  partner_name: Perplexity
+  category: AI Assistants
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/perplexity
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-curb-hero
+  label: Curb Hero
+  partner_name: Curb Hero
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/curb-hero
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
+  arazzo: null
+- slug: homebot-finmo
+  label: Finmo
+  partner_name: Finmo
+  category: CRM (Customer Relationship Management)
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/homebot/integrations/finmo
+  source: edge
+  relationship: ipaas-bridge
+  status: pending-partner-spec
   arazzo: null
