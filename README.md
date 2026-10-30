@@ -64,6 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Homebot is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Homebot is a homeownership platform that helps loan officers, real estate agents, banks, and credit unions engage clients with personalized home-finance insights and behavioral intelligence. It sends automated monthly digests covering home value, equity, and buying power, and surfaces high-intent "Motivated Client Alerts" so professionals can reach the right client at the right time. Homebot's Open API exposes 60+ client-activity events and equity/intent signals, and it integrates with CRMs (Salesforce, Total Expert, Follow Up Boss, Sierra Interactive), video (BombBomb), and automation (Zapier) to drive retention, referrals, and repeat business. The platform serves 10,000+ customers and 13 million homeowners. Backed by 500 Global.
 
-Backed by: 500-global — https://homebot.ai
+**Areas:** Company · Real Estate · Mortgage · PropTech · Fintech · Homeownership · Client Engagement · CRM · Lead Generation · Webhook
+
+## Homebot on APIs.io
+
+Everything profiled for Homebot is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/homebot/](https://apis.io/providers/homebot/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Homebot Events Webhooks](https://apis.io/asyncapis/homebot/homebot-events-webhooks/)
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [homebot](https://apis.io/servers/homebot/homebot/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Homebot Domain Security](https://apis.io/security/homebot/homebot-domain-security/)
+- [Homebot Trust Center](https://apis.io/security/homebot/homebot-trust-center/)
+- [Homebot Vulnerability Disclosure](https://apis.io/security/homebot/homebot-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://homebot.ai)
+- [Documentation](https://help.homebotapp.com)
+- [Getting started](https://help.homebotapp.com/en/articles/10172778-quick-start-7-easy-steps-to-set-up-your-account-for-success)
+- [API reference](https://homebot.ai/open-api)
+- [Pricing](https://homebot.ai/pricing)
+- [Support](https://help.homebotapp.com)
+- [Blog](https://homebot.ai/blog)
+- [Security](https://homebot.ai/trust-compliance)
+- [Compliance](https://homebot.ai/trust-compliance)
+- [Trust centre](https://trust.homebot.ai/)
+- [Terms of service](https://homebot.ai/terms-of-service)
+- [Privacy policy](https://homebot.ai/privacy-policy)
+- [GitHub](https://github.com/homebotapp)
+
+## API Evangelist rating
+
+**Kin Score 42.5** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 39.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 53.9 |
+
+**Agent readiness 29.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/homebot/](https://apis.io/providers/homebot/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Homebot: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/homebot/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
